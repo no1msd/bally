@@ -5,7 +5,7 @@ project, so don't expect anything fancy. It's slow and inefficient, but it does
 support texture mapping, soft shadows and depth of field, which is nice. It's 
 hardcoded to render the image below:
 
-![image](http://i.imgur.com/ow4asl1.png)
+![image](http://i.imgur.com/tBlABcK.png)
 
 With default settings, it takes about a minute to render on a Core i5-4200M.
 
